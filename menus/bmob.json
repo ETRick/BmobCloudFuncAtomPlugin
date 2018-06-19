@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bmob",
+        "command": "bmob:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bmob",
+          "submenu": [
+            {
+              "label": "Login",
+              "command": "bmob:login"
+            },
+            {
+              "label": "Awake",
+              "command": "bmob:awake"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

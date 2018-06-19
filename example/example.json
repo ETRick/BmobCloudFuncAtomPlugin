@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "PROJECT_ID": 206279,
+    "funcs": {
+      "api": 50234,
+      "dailyTraining": 50346,
+      "gameRecord": 50236,
+      "gameScore": 50237,
+      "log": 50238,
+      "userInfo": 50239,
+      "wxlogin": 50240
+    }
+  },
+  "publish": {
+    "PROJECT_ID": 203303,
+    "funcs": {
+      "api": 50194,
+      "dailyTraining": 50202,
+      "gameRecord": 50205,
+      "gameScore": 50207,
+      "log": 50222,
+      "userInfo": 50176,
+      "wxlogin": 50164
+    }
+  }
+}
